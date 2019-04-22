@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/marcus/Projects/vakinha-web/src/components/ContributionForm'
+let g:netrw_dirhist_2='/Users/marcus/Projects/vakinha-web/src/components/ContributionForm/ContributeButton'
+let g:netrw_dirhist_3='/Users/marcus/Projects/vakinha-web'
+let g:netrw_dirhist_4='/Users/marcus/Projects/vakinha-site'
+let g:netrw_dirhist_5='/Users/marcus/Projects/vakinha-web'
+let g:netrw_dirhist_6='/Users/marcus/Projects/vakinha-site'
+let g:netrw_dirhist_7='/Users/marcus/Projects/mptp-ui'
+let g:netrw_dirhist_8='/Users/marcus/Projects/mptp-api'
+let g:netrw_dirhist_9='/Users/marcus/Projects/mptp-ui'
